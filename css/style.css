@@ -2,3 +2,38 @@ body{
     margin: 0px;
     padding: 0px;
 }
+header{
+    
+}
+.logo{
+    font-family: Josefin Sans;
+    font-size: 27px;
+    color: #575757;
+}
+.menu_header{
+
+}
+.list_header{
+    display: inline-block;S
+    list-style-type: none;
+}
+.link_header{
+    font-family: Josefin SansS;
+    color: #3B4045;
+    text-decoration: none;
+}
+.first_list{
+
+}
+.first_clock{
+
+}
+.first_info{
+
+}
+.text_header{
+
+}
+.header_submit{
+
+}
