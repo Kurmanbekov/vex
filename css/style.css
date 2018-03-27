@@ -3,37 +3,86 @@ body{
     padding: 0px;
 }
 header{
-    
+    background: white;
 }
 .logo{
     font-family: Josefin Sans;
     font-size: 27px;
     color: #575757;
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 20px;
 }
 .menu_header{
-
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 20px;
 }
 .list_header{
-    display: inline-block;S
+    display: inline-block;
     list-style-type: none;
+    display: inline-block;
 }
 .link_header{
-    font-family: Josefin SansS;
+    font-family: Josefin Sans;
     color: #3B4045;
     text-decoration: none;
+    margin-left: 20px;
 }
 .first_list{
-
+    margin-top: 80px;
 }
 .first_clock{
-
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin-left: 160px;
 }
 .first_info{
-
+    display: inline-block;
 }
 .text_header{
-
+    color: #3B4045;
+    font-family: Josefin Sans;
+}
+.info_haeder{
+    font-family: Josefin Sans;
+    display: inline-block;
 }
 .header_submit{
+    color: white;
+    font-family:Josefin Sans;
+    font-size: 20px; 
+    box-shadow: 10px 0 20px rgba(0, 0, 0, 0.5);
+    background: #FCB34E;
+    padding: 11px 30px;
+    border: 1px solid #FCB34E;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+.first section{
+
+}
+.left_block{
+    display: inline-block;
+    float: left;
+}
+.block_info{
+    list-style-type: none;
+}
+.list_child{
+
+}
+.info_child{
+    list-style-type: none;
+}
+.second_clock{
+    width: 500px;
+    height: 500px;
+}
+.right_block{
+    display: inline-block;
+}
+.second_section{
 
 }
